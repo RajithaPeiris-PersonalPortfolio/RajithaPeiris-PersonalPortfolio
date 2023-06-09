@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajithaPeiris-PersonalPortfolio
-- 👀 I’m interested in .NET, ASP.NET Core, ASP.NET MVC, WebAPIs and Docker.
+- 👀 I’m interested in C#, .NET Framework, ASP.NET Core, ASP.NET MVC, WebAPI, Entity Core Framework and Docker For Containerization.
 - 🌱 I’m currently learning these technologies and JS front-end frameworks such as ReactJS and AngularJS.
 - 💞️ I’m looking to collaborate on GitHub Web Development Projects.
 - 📫 How to reach me => rajithapeiris.personalportfolio@gmail.com
