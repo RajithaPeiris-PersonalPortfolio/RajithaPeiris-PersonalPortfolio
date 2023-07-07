@@ -28,6 +28,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajithapeiris-personalportfolio&show_icons=true&theme=cobalt&locale=en" alt="rajithapeiris-personalportfolio" /></p>
 
+</br>
+
 ## ⚙️ Technologies
 **✍🏼 Languages**  &nbsp; 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,11 +50,25 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
 <br />
 
+[![Cover](https://github.com/RajithaPeiris-PersonalPortfolio/CODING-GIF-IMAGE/blob/main/coding.gif)](https://github.com/RajithaPeiris-PersonalPortfolio/)
 
-<br><br>
+<br>
 
+![](https://github.com/RajithaPeiris-PersonalPortfolio/GITHUB-README-VIDEO/blob/main/ezgif.com-video-to-gif.gif)
+  
+<br>
+
+<!--[![Cover](
+https://github.com/RajithaPeiris-PersonalPortfolio/CODING-GIF-IMAGE/blob/main/github-contribution-grid-snake.svg)](https://github.com/RajithaPeiris-PersonalPortfolio/)-->
+
+</br>
+
+<img alt="github contribution snake animation" src="https://github.com/RajithaPeiris-PersonalPortfolio/CODING-GIF-IMAGE/blob/main/github-contribution-grid-snake.svg">
+
+</br>
 
 **Talking about Personal Stuff:**
 
@@ -60,11 +76,5 @@
 - 🚀 I’m currently learning Web Development using .NET technology stack;
 - 💬 Ask me about anything .NET, I am happy to help to the best of my abilities;
 <!-- - 📝 I regulary write articles on [hashnode](https://dunggramer.hashnode.dev/); -->
-</br></br>
 
-
-<img alt="github contribution snake animation" src="https://github.com/RajithaPeiris-PersonalPortfolio/CODING-GIF-IMAGE/blob/main/github-contribution-grid-snake.svg">
-
-<br><br>
-
-
+</br>
