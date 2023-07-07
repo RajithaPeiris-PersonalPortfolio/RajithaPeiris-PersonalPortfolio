@@ -54,12 +54,6 @@
 <br><br>
 
 
-https://github.com/RajithaPeiris-PersonalPortfolio/GITHUB-README-VIDEO/blob/main/COMPRESSED-Pink%20Retro%20Welcome%20Video.mp4
-
- 
-<br><br>
-
-
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on ASP.NET Core and MS SQL Server using Entity Core Framework;
