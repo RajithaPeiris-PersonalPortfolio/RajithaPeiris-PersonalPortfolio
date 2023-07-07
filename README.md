@@ -54,7 +54,11 @@
 
 <br><br>
 
-[![Video](https://github.com/RajithaPeiris-PersonalPortfolio/GITHUB-README-VIDEO/blob/main/Pink%20Retro%20Welcome%20to%20my%20Github%20Page.mp4)](https://github.com/RajithaPeiris-PersonalPortfolio/)
+
+
+https://github.com/RajithaPeiris-PersonalPortfolio/RajithaPeiris-PersonalPortfolio/assets/130030974/e14c8476-ab31-49e7-8e8e-a688464e70cb
+
+
   
 <br><br>
 
