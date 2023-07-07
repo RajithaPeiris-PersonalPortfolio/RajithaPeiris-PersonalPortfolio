@@ -48,11 +48,16 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
 <br />
 
 
-[![Cover](https://github.com/DungGramer/DungGramer/blob/master/public/image/coding.gif)](https://github.com/DungGramer/)    
+
+<br><br>
+
+[![Video](https://github.com/RajithaPeiris-PersonalPortfolio/GITHUB-README-VIDEO/blob/main/Pink%20Retro%20Welcome%20to%20my%20Github%20Page.mp4)](https://github.com/RajithaPeiris-PersonalPortfolio/)
+  
+<br><br>
+
 
 
 **Talking about Personal Stuff:**
@@ -64,7 +69,7 @@
 </br></br>
 
 
-<img alt="github contribution snake animation" src="https://github.com/DungGramer/DungGramer/blob/metrics/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://github.com/RajithaPeiris-PersonalPortfolio/CODING-GIF-IMAGE/blob/main/github-contribution-grid-snake.svg">
 
 <br><br>
 
