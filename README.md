@@ -51,17 +51,13 @@
 <br />
 
 
-
 <br><br>
 
 
+https://github.com/RajithaPeiris-PersonalPortfolio/GITHUB-README-VIDEO/blob/main/COMPRESSED-Pink%20Retro%20Welcome%20Video.mp4
 
-https://github.com/RajithaPeiris-PersonalPortfolio/RajithaPeiris-PersonalPortfolio/assets/130030974/e14c8476-ab31-49e7-8e8e-a688464e70cb
-
-
-  
+ 
 <br><br>
-
 
 
 **Talking about Personal Stuff:**
