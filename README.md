@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajithaPeiris-PersonalPortfolio](https://github.com/RajithaPeiris-PersonalPortfolio)
 
-- 💬 Ask me about **React JS, Express JS and Mongo DB.**
+- 💬 Ask me about **ASP.NET Core, ASP.NET MVC, MS SQL Server, React JS, Express JS and Mongo DB.**
 
 - 📫 How to reach me **rajithapeiris.personalportfolio@gmail.com**
 
